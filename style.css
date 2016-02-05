@@ -1,0 +1,32 @@
+body {
+  overflow: scroll;
+}
+.greenbox1{
+  height:300px;
+  width:50px;
+  margin-top: 400px;
+  position: fixed;
+  background-color: #1aff66;
+}
+.greenbox2{
+  background-color: #006622;
+  height: 150px;
+  width: 150px;
+}
+.greenbox3{
+  background-color: #4dffa6;
+  height: 25%;
+  width: 15%;
+  position: fixed;
+  margin-top: 100px;
+  margin-left: 200px;
+  border: solid black 3px;
+}
+.greenbox4{
+  background-color: #006622;
+  height: 350px;
+  width: 350px;
+  position: fixed;
+  top: 700px;
+  left: 100px;
+}
